@@ -1,0 +1,7 @@
+2017-09-02 19:08:05,500 [ERROR][NumeralSystemConventor] - java.lang.NumberFormatException  (throw)
+2017-09-02 19:08:05,501 [ERROR][Main                  ] - java.lang.NumberFormatException (catch)
+2017-09-02 19:08:07,276 [ERROR][Main                  ] - java.util.InputMismatchException (catch)
+2017-09-02 19:08:09,166 [DEBUG][NumeralSystemConventor] - Entered number is 7
+2017-09-02 19:08:09,166 [ INFO][NumeralSystemConventor] - Result is 111 (base = 2)
+2017-09-02 19:08:09,166 [ INFO][NumeralSystemConventor] - Result is 7 (base = 8)
+2017-09-02 19:08:09,166 [ INFO][NumeralSystemConventor] - Result is 7 (base = 16)
